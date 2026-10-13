@@ -1,0 +1,22 @@
+# EN3160 Assignment 03 - Python packages
+#
+# Setup (Windows, run in the repo folder):
+#   python -m venv .venv
+#   .venv\Scripts\activate
+#   python -m pip install --upgrade pip
+#   pip install -r requirements.txt
+#
+# PyTorch is installed with CUDA 12.6 support (NVIDIA GPU) from the index below.
+
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch
+torchvision
+
+numpy
+matplotlib
+scikit-learn
+seaborn
+pandas
+tqdm
+jupyter
+ipykernel
