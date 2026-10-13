@@ -6,7 +6,7 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Datasets & model weights (downloaded by download_data.py)
+# Datasets & model weights (sources listed in README.md)
 data/
 *.pth
 *.pt
