@@ -12,6 +12,13 @@ data/
 *.pt
 *.zip
 
+# LaTeX build leftovers from the PDF export
+*.tex
+*.aux
+*.log
+*.out
+*_files/
+
 # OS / editor
 .DS_Store
 Thumbs.db
